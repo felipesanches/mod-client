@@ -1,0 +1,7 @@
+[submodule "mod-ui"]
+	path = mod-ui
+	url = http://github.com/portalmod/mod-ui
+	branch = mod-standalone
+[submodule "mod-host"]
+	path = mod-host
+	url = http://github.com/portalmod/mod-host
