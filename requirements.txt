@@ -1,0 +1,5 @@
+modcommon
+tornado==3.1
+pystache==0.5.4
+PIL==1.1.7
+pyserial==2.6
